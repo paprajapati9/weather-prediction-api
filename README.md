@@ -1,4 +1,4 @@
-# weather-pridiction-app
+# weather-pridiction-api
 
 This project is created as per the requirements of the assignment provided by publicis sapient.
 The purpose of this project is to consume the OpenWeatherMap api.
@@ -38,12 +38,12 @@ docker hub via
 
 ```sh
 $ cd weather-pridiction-api
-$ docker build -t rjpraj/weather-predict-api:latest .
-$ docker push rjpraj/weather-predict-api:latest 
+$ docker build -t paprajapati9/weather-predict-api:latest .
+$ docker push paprajapati9/weather-predict-api:latest 
 ```
 And then run to start application
 ```sh
-$ docker run -p 8080:8080 docker.io/rjpraj/weather-predict-api:latest
+$ docker run -p 8080:8080 docker.io/paprajapati9/weather-predict-api:latest
 ```
 
 ## Running tests
