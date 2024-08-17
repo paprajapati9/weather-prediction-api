@@ -1,4 +1,4 @@
-# weather-pridiction-api
+# weather-pridiction-app
 
 This project is created as per the requirements of the assignment provided by publicis sapient.
 The purpose of this project is to consume the OpenWeatherMap api.
